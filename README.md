@@ -103,6 +103,17 @@ http://www.studywithanish.com
 <!-- ![alt text] (image) -->  
 
 
-<!-- ![profile](./images/hunter-x-hunter-2011.jpg) -->
+<!-- ![profile](./images/hunter-x-hunter-2011.jpg) -->  
 
 <img src="./images/hunter-x-hunter-2011.jpg" width="200" title="profile image"/>
+   
+
+### emoji  
+😊
+
+### table 
+| Name | Email |
+| ---- | ----- |
+| Soumitra Biswas | Text is here |
+| Soumitra Biswas | Soumitrabiswas.toyos27@gmail.com |
+| Soumitra Biswas | Text is here |
